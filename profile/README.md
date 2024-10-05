@@ -16,7 +16,7 @@
 
 - Some of our latest project:
   - [Casier Judiciaire N3](https://github.com/Dev-Corps/Casier-Judiciaire-N3)
-  - [Prospectius](https://github.com/josoavj/Prospectius)
+  - [Prospectius](https://github.com/Dev-Corps/Prospectius)
   - [elasticsearch to node](https://github.com/josoavj/elasticsearch-server)
  
   
