@@ -11,6 +11,7 @@
   - [Franck Haritsimba](https://github.com/haritsimba)
   - [Sarobidy Tsizehena](https://github.com/tsizehena223)
   - [Joela Vonjiniaina](https://github.com/Joela007)
+  - [Lobo Ranomenjanahary](https://github.com/jaonary-74)
  
 ### Our projects - Repository
 
