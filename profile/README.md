@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋</h1> 
-<h3 align="center">Dev-Corps | DevTeam </h3>
+<h3 align="center">APEXNova Labs | DevTeam </h3>
 
 👨‍💻 We are a group of developers who are diversifying into web, mobile and desktop development.
 
@@ -16,8 +16,8 @@
 ### Our projects - Repository
 
 - Some of our latest project:
-  - [Casier Judiciaire N3](https://github.com/Dev-Corps/Casier-Judiciaire-N3)
-  - [Prospectius](https://github.com/Dev-Corps/Prospectius)
-  - [elasticsearch to node](https://github.com/Dev-Corps/elasticsearch-server)
+  - [Casier Judiciaire N3](https://github.com/APEXNovaLabs/Casier-Judiciaire-N3)
+  - [Prospectius](https://github.com/APEXNovaLabs/Prospectius)
+  - [elasticsearch to node](https://github.com/APEXNovaLabs/elasticsearch-server)
  
   
