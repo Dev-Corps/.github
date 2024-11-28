@@ -17,7 +17,7 @@
 
 - Some of our latest project:
   - [Casier Judiciaire N3](https://github.com/APEXNovaLabs/Casier-Judiciaire-N3)
-  - [Prospectius](https://github.com/APEXNovaLabs/Prospectius)
+  - [Prospectius 1.0.0](https://github.com/APEXNovaLabs/Prospectius1.0)
   - [elasticsearch to node](https://github.com/APEXNovaLabs/elasticsearch-server)
  
   
